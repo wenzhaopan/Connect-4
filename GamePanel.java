@@ -1,8 +1,3 @@
-/* 
-Wenzhao Pan and Joshua Choi
-June 20, 2022
-ICS Culminating
- */
 
 //GamePanel is the main game itself
 //This is the game panel for the PVP game mode, and uses the respective power ups
