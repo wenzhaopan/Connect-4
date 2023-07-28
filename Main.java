@@ -1,8 +1,3 @@
-/* 
-Wenzhao Pan and Joshua Choi
-June 20, 2022
-ICS Culminating
- */
 
 //Main menu of game with 3 options 
 //PVP, PVE, quit
