@@ -1,8 +1,3 @@
-/* 
-Wenzhao Pan and Joshua Choi
-June 20, 2022
-ICS Culminating
- */
 
 //GamePanelAI is the main game for the AI version
 //Has functions to make the computer play for itself and identify if it can win, or if it can block a win, or to randomly play a piece
