@@ -1,8 +1,3 @@
-/* 
-Wenzhao Pan and Joshua Choi
-June 20, 2022
-ICS Culminating
- */
 
 //Power up class for the extra pieces power up (blue)
 //Has a constructor and an activation method which activates it on the main game
