@@ -1,8 +1,3 @@
-/* 
-Wenzhao Pan and Joshua Choi
-June 20, 2022
-ICS Culminating
- */
 
 /* GameFrame class establishes the frame (window) for the game
 Extends JFrame because JFrame manages frames
